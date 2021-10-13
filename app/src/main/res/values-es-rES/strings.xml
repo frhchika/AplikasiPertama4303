@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AplikasiPertama4303</string>
+    <string name="salam">Hola!</string>
+    <string name="keterangan">Esta es mi primera aplicacion para android</string>
+    <string name="closing">¡Qué tengas un buen día!</string>
+    <string name="click_me">Hacer clic</string>
+    <string name="editName">Ingrese su nombre</string>
+</resources>

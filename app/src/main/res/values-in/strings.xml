@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AplikasiPertama4303</string>
+    <string name="keterangan">Ini adalah aplikasi andorid pertama saya</string>
+    <string name="closing">Semoga hari Anda menyenangkan!</string>
+    <string name="salam">Halo, apa kabar?</string>
+    <string name="click_me">Klik aku</string>
+    <string name="editName">Masukkan namamu</string>
+</resources>

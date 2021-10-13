@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AplikasiPertama4303</string>
+    <string name="salam">Hello good people!</string>
+    <string name="keterangan">This is my first android application</string>
+    <string name="closing">Have a nice day!</string>
+    <string name="click_me">Click me</string>
+    <string name="editName">Enter your name</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="todo">TODO</string>
+</resources>
